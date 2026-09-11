@@ -6,7 +6,10 @@
       "extensions": [
         "ms-python.python",
         "ms-python.vscode-pylance"
-      ]
+      ],
+      "settings": {
+        "extensions.ignoreRecommendations": true
+      }
     }
   },
   "remoteUser": "vscode"
