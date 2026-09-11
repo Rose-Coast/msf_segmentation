@@ -4,3 +4,7 @@ geopandas
 scikit-learn
 matplotlib
 seaborn
+
+# Jupyter Notebook support
+ipykernel>=6.29.0
+jupyter>=1.0.0
