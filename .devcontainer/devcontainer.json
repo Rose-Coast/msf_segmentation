@@ -12,5 +12,6 @@
       }
     }
   },
-  "remoteUser": "vscode"
+  "remoteUser": "vscode",
+  "postCreateCommand": "pip install -r requirements.txt"
 }
